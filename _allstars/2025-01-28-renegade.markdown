@@ -4,7 +4,10 @@ author: Kuro Zim
 date: 2025-01-29
 category: Jekyll
 layout: default
+nav_order: 9
 ---
+
+# Renegade (616JINRIKI ALLSTARS ver.)
 
 > 那你知道——<br>
 > 戴上AC娘的包子头，有什么意义吗？<br>

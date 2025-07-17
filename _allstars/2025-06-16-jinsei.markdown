@@ -4,7 +4,10 @@ author: Kuro Zim
 date: 2025-06-16
 category: Jekyll
 layout: default
+nav_order: 11
 ---
+
+# 人生 -Our Life- (616JINRIKI ALLSTARS ver.)
 
 > 我们的人生，或许是一场超越次元的梦。
 > 那么，向人生，向这超越次元的梦境，发起挑战吧。

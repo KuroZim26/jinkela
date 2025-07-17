@@ -7,7 +7,7 @@ layout: default
 nav_order: 2
 ---
 
-## 关于本主题
+# 关于本页面
 
 本页面使用了由[Just the Docs团队](https://github.com/just-the-docs)制作的[Just the Docs](https://github.com/just-the-docs/just-the-docs)主题，并根据实际需要对内部代码进行了一些调整。
 

@@ -1,11 +1,13 @@
 ---
-title: 【金坷垃】光線歌
+title: 光線歌
 author: Kuro Zim
 date: 2025-06-08
 category: Jekyll
 layout: default
-
+nav_order: 13
 ---
+
+# 光線歌 ft. 金坷垃
 
 > 歌唱吧🎤 舞动吧🕺🏻💃🏻 祈愿吧🙏🏻 传达吧🛜 这条街道的光线歌🎵 <br>照亮💡夜晚🌃 照亮💡人们👥 比星辰⭐更加闪耀吧🔥☀✨ 光线歌🎵
 

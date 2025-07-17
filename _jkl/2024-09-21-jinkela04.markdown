@@ -1,10 +1,13 @@
 ---
-title: 【金坷垃】Tomorrow Program
+title: Tomorrow Program
 author: Kuro Zim
 date: 2024-09-21
 category: Jekyll
 layout: default
+nav_order: 4
 ---
+
+# Tomorrow Program ~向着发达的彼岸~
 
 > 年度超感动大电影《Tomorrow Program ~向着发达的彼岸~》同名主题曲发布！<br>哪怕经历了无数平行宇宙的磨难，哪怕日日被美美再三刁难，只能看着不发达的非非抢走本属于自己的金坷垃……<br>但无论是非非、日日还是美美，都始终相信，所有平行宇宙的尽头只有一个，那就是全世界一起发达！<br>“金坷垃的故事不会在此结束！”他们这么说着，再次踏上前往发达的平行宇宙的漫长旅途！
 

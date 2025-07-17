@@ -4,7 +4,10 @@ author: Kuro Zim
 date: 2021-08-21
 category: Jekyll
 layout: default
+nav_order: 1
 ---
+
+# Night of XIAOMI
 
 > 我  看  今  天  谁  敢  买  小  米  旗  舰  ！！
 

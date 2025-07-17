@@ -4,7 +4,10 @@ author: Kuro Zim
 date: 2022-11-05
 category: Jekyll
 layout: default
+nav_order: 5
 ---
+
+# Neru VS Nerune ～ネルとネルネのアンビバレント！～
 
 > うまい!!<br>テーレッテレー<br>ねっておいしい「ねるねるねるね」♬
 

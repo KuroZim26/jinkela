@@ -4,7 +4,10 @@ author: Kuro Zim
 date: 2022-06-19
 category: Jekyll
 layout: default
+nav_order: 2
 ---
+
+# 米者
 
 > 非常喜欢（基本上）所有的小米用户都说过的一句话<br>“我再买小米，我就是个傻逼！”
 

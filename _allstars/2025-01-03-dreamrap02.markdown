@@ -4,7 +4,10 @@ author: Kuro Zim
 date: 2025-01-03
 category: Jekyll
 layout: default
+nav_order: 8
 ---
+
+# 忍者 × 坐忘道 (ft. 迷惘之梦)
 
 
 > 全新热单来袭，以迷惘之名引爆梦乡世界！

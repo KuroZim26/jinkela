@@ -4,7 +4,10 @@ author: Kuro Zim
 date: 2022-09-24
 category: Jekyll
 layout: default
+nav_order: 3
 ---
+
+# 夢にかけるRainbow
 
 > Wow oh~ Wow oh~<br>夢にかけるRainbow~
 

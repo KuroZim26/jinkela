@@ -1,10 +1,13 @@
 ---
-title: 【金坷垃】Mystic Light Quest (ft. 一只大哈鱼)
+title: Mystic Light Quest (ft. 一只大哈鱼)
 author: Kuro Zim
 date: 2024-08-01
 category: Jekyll
 layout: default
+nav_order: 2
 ---
+
+# Mystic Fertilizer Quest (ft. 一只大哈鱼)
 
 > 在佩佩EP的召唤下，再次聚齐的金坷垃三人组。<br>手持新时代强力助战，在支援非非和日日之间摇摆不定的全图鉴巨佬美美，想要通关夏活，疯狂氪金却抽不到想要的干员的非非，还有用核废水与全人类粮食安全作为威胁，试图强夺金坷垃和强力干员的日日。<br>究竟谁能得到最珍贵的金坷垃，以及用以通关夏活的最强力干员，获得这场“神秘肥料大冒险”的胜利？
 
