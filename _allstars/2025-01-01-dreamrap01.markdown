@@ -3,8 +3,7 @@ title: 【AC娘本体】超大侠
 author: Kuro Zim
 date: 2025-01-01
 category: Jekyll
-layout: post
-nav_order: 7
+layout: default
 ---
 
 > 小床已铺好，弹幕准备，2025也要继续梦游啦~
@@ -18,12 +17,6 @@ nav_order: 7
 填词/制作：Kuro Zim
 
 ## 音源
-
-{: .note-title }
-
-> AcFun Only
->
-> 由于素材和内容原因，本作品只发布于AcFun。抱歉！
 
 [AcFun](https://www.acfun.cn/v/ac46718216)
 

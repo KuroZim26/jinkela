@@ -1,10 +1,9 @@
 ---
-title: サイバーパンクデッドボーイ
+title: 【金坷垃】サイバーパンクデッドボーイ
 author: Kuro Zim
 date: 2025-06-23
 category: Jekyll
-layout: post
-nav_order: 14
+layout: default
 ---
 
 > Devoid of fertilizer, agriculture remains silent<br>*没有肥料的农业归于沉默*<br>Unreaped grains conceal their essence<br>*未收获的庄稼失去精髓*<br>without production, soil loses its meaning<br>*没有产量，土地仅余空壳*<br>Thus, modern agriculture is pronounced deceased<br>*于是，现代农业宣告消亡*

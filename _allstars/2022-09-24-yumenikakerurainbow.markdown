@@ -3,8 +3,7 @@ title: 【多明星UTAU】夢にかけるRainbow
 author: Kuro Zim
 date: 2022-09-24
 category: Jekyll
-layout: post
-nav_order: 3
+layout: default
 ---
 
 > Wow oh~ Wow oh~<br>夢にかけるRainbow~

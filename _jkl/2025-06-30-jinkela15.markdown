@@ -1,10 +1,9 @@
 ---
-title: エンパープル
+title: 【金坷垃】エンパープル
 author: Kuro Zim
 date: 2025-06-30
 category: Jekyll
-layout: post
-nav_order: 15
+layout: default
 ---
 
 > 与其说是金坷垃，不如说是紫色食品小宣传（

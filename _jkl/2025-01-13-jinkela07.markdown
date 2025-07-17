@@ -1,10 +1,9 @@
 ---
-title: 滋味常
+title: 【金坷垃】滋味常
 author: Kuro Zim
 date: 2025-01-13
 category: Jekyll
-layout: post
-nav_order: 7
+layout: default
 ---
 
 >  你不许上音律联觉！

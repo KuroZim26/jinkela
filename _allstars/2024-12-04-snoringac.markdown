@@ -3,8 +3,7 @@ title: 【AC娘本体】危机合约·晨鼾行动
 author: Kuro Zim
 date: 2024-12-04
 category: Jekyll
-layout: post
-nav_order: 6
+layout: default
 ---
 
 > 深井冰啊！我才没有打呼！！！！
@@ -18,18 +17,6 @@ nav_order: 6
 填词/制作：Kuro Zim
 
 ## 音源
-
-{: .note-title }
-
-> AcFun Only
->
-> 由于素材和内容原因，本作品只发布于AcFun。抱歉！
-
-{: .highlight-title }
-
-> 扭曲黑！
->
-> ANTI一本正经，GACHI两眼一黑。我才没有打呼！！
 
 [AcFun](https://www.acfun.cn/v/ac46610891)
 

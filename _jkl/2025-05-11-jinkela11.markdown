@@ -1,10 +1,9 @@
 ---
-title: 虚無さん
+title: 【金坷垃】虚無さん
 author: Kuro Zim
 date: 2025-05-11
 category: Jekyll
-layout: post
-nav_order: 11
+layout: default
 ---
 
 > 总之就是最新最热虚无桑，但其实真正的标题应该叫发达桑（确信）

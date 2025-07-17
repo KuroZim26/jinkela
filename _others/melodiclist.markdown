@@ -3,7 +3,7 @@ title: 无歌词型调音作品一览
 author: Kuro Zim
 date: 2025-07-16
 category: Jekyll
-layout: post
+layout: default
 nav_order: 1
 ---
 

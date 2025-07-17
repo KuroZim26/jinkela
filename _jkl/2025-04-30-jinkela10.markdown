@@ -1,10 +1,9 @@
 ---
-title: Iなんです
+title: 【金坷垃】Iなんです
 author: Kuro Zim
 date: 2025-04-30
 category: Jekyll
-layout: post
-nav_order: 10
+layout: default
 ---
 
 > 谁家烤批做金坷垃给自推角色过生日的啊，哎金坷垃吃（

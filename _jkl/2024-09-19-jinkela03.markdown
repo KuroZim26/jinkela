@@ -1,10 +1,9 @@
 ---
-title: 私は雨
+title: 【金坷垃】私は雨
 author: Kuro Zim
 date: 2024-09-19
 category: Jekyll
-layout: post
-nav_order: 3
+layout: default
 ---
 
 > 每一首金坷垃都是一个平行宇宙。<br>这一次，非非和日日化身“烤批”，在プロセカ书下曲《私は雨》的旋律中抢夺美美的金坷垃！<br>只是因为非非和日日的唐突传教，这一次结局有点不一样，一向对偶像游戏没有兴趣的美美，居然……？<br>

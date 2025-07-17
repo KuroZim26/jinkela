@@ -1,10 +1,9 @@
 ---
-title: オールセーブチャレンジ
+title: 【金坷垃】オールセーブチャレンジ
 author: Kuro Zim
 date: 2025-05-23
 category: Jekyll
-layout: post
-nav_order: 12
+layout: default
 ---
 
 >  写作オールセーブチャレンジ，读作零浪费挑战<br>金坷垃是检验Wonderhoi的唯一标准！

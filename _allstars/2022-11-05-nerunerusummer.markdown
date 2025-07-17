@@ -3,8 +3,7 @@ title: 【魔女さん+旺旺碎冰冰】Neru VS Nerune ～ネルとネルネの
 author: Kuro Zim
 date: 2022-11-05
 category: Jekyll
-layout: post
-nav_order: 5
+layout: default
 ---
 
 > うまい!!<br>テーレッテレー<br>ねっておいしい「ねるねるねるね」♬

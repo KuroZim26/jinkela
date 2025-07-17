@@ -3,8 +3,7 @@ title: 【李火旺】忍者 × 坐忘道
 author: Kuro Zim
 date: 2025-01-03
 category: Jekyll
-layout: post
-nav_order: 8
+layout: default
 ---
 
 

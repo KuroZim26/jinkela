@@ -3,8 +3,7 @@ title: 【小米圣经】Night of XIAOMI
 author: Kuro Zim
 date: 2021-08-21
 category: Jekyll
-layout: post
-nav_order: 1
+layout: default
 ---
 
 > 我  看  今  天  谁  敢  买  小  米  旗  舰  ！！

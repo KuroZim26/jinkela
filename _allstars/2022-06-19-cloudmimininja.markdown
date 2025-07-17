@@ -3,8 +3,7 @@ title: 【小米圣经】忍者
 author: Kuro Zim
 date: 2022-06-19
 category: Jekyll
-layout: post
-nav_order: 2
+layout: default
 ---
 
 > 非常喜欢（基本上）所有的小米用户都说过的一句话<br>“我再买小米，我就是个傻逼！”

@@ -1,10 +1,9 @@
 ---
-title: Legend of Bloodywolf
+title: 【金坷垃】Legend of Bloodywolf
 author: Kuro Zim
 date: 2025-02-13
 category: Jekyll
-layout: post
-nav_order: 9
+layout: default
 ---
 
 > 我也不知道金坷垃血狼打灰歌在燃什么。

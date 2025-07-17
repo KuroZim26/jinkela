@@ -1,10 +1,9 @@
 ---
-title: DIVE with Ü
+title: 【金坷垃】DIVE with Ü
 author: Kuro Zim
 date: 2024-12-23
 category: Jekyll
-layout: post
-nav_order: 6
+layout: default
 ---
 
 > 这一首，让玩华卡的瞬间沉默，让听金坷垃的瞬间落泪！壮哉我大金坷垃！

@@ -3,8 +3,7 @@ title: 【面筋哥领衔全明星】D/N/A
 author: Kuro Zim
 date: 2025-03-29
 category: Jekyll
-layout: post
-nav_order: 10
+layout: default
 ---
 
 > 面筋哥一路走好……
